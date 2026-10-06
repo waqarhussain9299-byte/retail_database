@@ -1,0 +1,38 @@
+ReturnID,OrderID,OrderItemID,ProductID,ReturnDate,ReturnQuantity,ReturnAmount,ReturnReason,ReturnStatus
+1,5,13,33,2025-12-23,2,897.16,Wrong Item,Received
+2,13,37,44,2025-05-06,1,169.9,Defective,Received
+3,23,61,42,2025-04-14,1,191.31,Defective,Processed
+4,45,109,29,2025-11-24,4,1638.52,Wrong Item,Received
+5,97,236,24,2025-08-11,1,397.0,Customer Changed Mind,Approved
+6,102,248,10,2025-10-11,3,494.76,Defective,Received
+7,104,255,12,2025-02-12,1,115.37,Customer Changed Mind,Processed
+8,123,303,42,2025-10-01,2,406.54,Customer Changed Mind,Processed
+9,159,396,11,2025-03-05,2,67.42,Damaged,Received
+10,178,445,27,2025-12-23,1,70.01,Damaged,Processed
+11,186,459,34,2025-10-02,2,449.5,Wrong Item,Approved
+12,193,483,21,2025-06-06,1,294.95,Damaged,Processed
+13,197,492,21,2026-01-08,1,250.71,Customer Changed Mind,Approved
+14,199,498,25,2025-05-26,1,33.55,Customer Changed Mind,Received
+15,212,532,16,2025-09-06,1,132.46,Damaged,Received
+16,221,554,50,2025-05-06,3,614.55,Damaged,Processed
+17,224,561,9,2025-07-02,1,281.74,Defective,Received
+18,244,612,25,2025-06-21,4,134.22,Defective,Approved
+19,256,645,15,2025-07-15,1,169.03,Defective,Approved
+20,273,679,43,2025-07-31,2,386.21,Defective,Received
+21,284,699,39,2025-02-22,2,696.97,Customer Changed Mind,Processed
+22,326,817,21,2025-10-27,1,280.2,Customer Changed Mind,Processed
+23,340,856,24,2025-11-12,2,838.11,Wrong Item,Received
+24,341,859,33,2025-03-12,4,1614.89,Defective,Processed
+25,343,865,8,2025-02-16,2,188.2,Damaged,Processed
+26,347,874,35,2025-03-04,3,140.12,Customer Changed Mind,Received
+27,355,893,21,2025-02-08,1,265.45,Defective,Approved
+28,358,904,22,2025-12-15,1,55.34,Wrong Item,Received
+29,385,973,50,2025-02-21,2,389.22,Wrong Item,Received
+30,389,985,28,2025-05-14,2,237.25,Wrong Item,Processed
+31,398,1006,18,2025-12-14,1,271.78,Damaged,Approved
+32,414,1046,39,2025-07-30,1,409.98,Damaged,Received
+33,421,1069,27,2025-07-31,3,210.03,Defective,Approved
+34,441,1117,41,2025-11-01,2,261.95,Wrong Item,Approved
+35,455,1148,11,2025-11-01,1,40.03,Damaged,Approved
+36,470,1184,12,2025-06-25,2,196.13,Defective,Received
+37,491,1243,28,2025-01-22,2,279.12,Customer Changed Mind,Approved

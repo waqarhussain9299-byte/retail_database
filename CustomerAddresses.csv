@@ -1,0 +1,51 @@
+AddressID,CustomerID,AddressType,StreetAddress,City,State,PostalCode,Country,IsPrimary
+1,1,Billing,6375 Park St,Phoenix,AZ,85001,USA,True
+2,2,Home,3605 Main St,Phoenix,AZ,85001,USA,True
+3,3,Shipping,5521 Washington St,Columbus,OH,43085,USA,True
+4,4,Shipping,1120 Oak St,Charlotte,NC,28201,USA,True
+5,5,Shipping,9669 Park St,Columbus,OH,43085,USA,True
+6,6,Home,6332 Lake St,New York,NY,10001,USA,True
+7,7,Shipping,4992 Lake St,New York,NY,10001,USA,True
+8,8,Home,9047 Washington St,Columbus,OH,43085,USA,True
+9,9,Shipping,3695 Market St,San Diego,CA,92101,USA,True
+10,10,Shipping,575 Lake St,Columbus,OH,43085,USA,True
+11,11,Home,6724 Park St,Austin,TX,78701,USA,True
+12,12,Shipping,2191 Washington St,Philadelphia,PA,19101,USA,True
+13,13,Billing,6555 Washington St,Boston,MA,02101,USA,True
+14,14,Home,544 Main St,Nashville,TN,37201,USA,True
+15,15,Billing,7664 Oak St,Columbus,OH,43085,USA,True
+16,16,Shipping,6311 Market St,Los Angeles,CA,90001,USA,True
+17,17,Shipping,5455 Market St,San Antonio,TX,78201,USA,True
+18,18,Shipping,7006 Market St,Fort Worth,TX,76101,USA,True
+19,19,Shipping,417 Park St,Chicago,IL,60601,USA,True
+20,20,Billing,5833 Oak St,Boston,MA,02101,USA,True
+21,21,Home,759 Main St,Chicago,IL,60601,USA,True
+22,22,Billing,433 Washington St,San Diego,CA,92101,USA,True
+23,23,Billing,2168 Lake St,Phoenix,AZ,85001,USA,True
+24,24,Home,3671 Lake St,Houston,TX,77001,USA,True
+25,25,Shipping,2849 Washington St,Dallas,TX,75201,USA,True
+26,26,Home,1976 Oak St,Portland,OR,97201,USA,True
+27,27,Billing,9581 Main St,San Jose,CA,95101,USA,True
+28,28,Home,6249 Lake St,San Jose,CA,95101,USA,True
+29,29,Billing,9800 Park St,San Antonio,TX,78201,USA,True
+30,30,Billing,5041 Park St,San Diego,CA,92101,USA,True
+31,31,Billing,9372 Main St,Portland,OR,97201,USA,True
+32,32,Home,7118 Park St,Jacksonville,FL,32099,USA,True
+33,33,Billing,8389 Park St,Jacksonville,FL,32099,USA,True
+34,34,Billing,6982 Lake St,Austin,TX,78701,USA,True
+35,35,Shipping,6034 Park St,Houston,TX,77001,USA,True
+36,36,Home,2606 Lake St,Charlotte,NC,28201,USA,True
+37,37,Home,8648 Park St,Philadelphia,PA,19101,USA,True
+38,38,Home,8917 Lake St,Dallas,TX,75201,USA,True
+39,39,Shipping,9807 Market St,Charlotte,NC,28201,USA,True
+40,40,Billing,1519 Market St,Austin,TX,78701,USA,True
+41,41,Billing,7713 Washington St,Charlotte,NC,28201,USA,True
+42,42,Home,6309 Market St,Portland,OR,97201,USA,True
+43,43,Shipping,5425 Oak St,New York,NY,10001,USA,True
+44,44,Billing,5913 Market St,Seattle,WA,98101,USA,True
+45,45,Shipping,9867 Park St,Austin,TX,78701,USA,True
+46,46,Home,266 Washington St,Dallas,TX,75201,USA,True
+47,47,Billing,4054 Park St,San Antonio,TX,78201,USA,True
+48,48,Shipping,9196 Oak St,Columbus,OH,43085,USA,True
+49,49,Home,8141 Lake St,Seattle,WA,98101,USA,True
+50,50,Billing,4920 Oak St,New York,NY,10001,USA,True

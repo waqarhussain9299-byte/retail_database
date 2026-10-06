@@ -1,0 +1,51 @@
+SupplierID,SupplierName,ContactName,Email,Phone,City,State,Country,SupplierStatus
+1,Supplier 01,Isabella Lewis,supplier1@vendor.com,555-539-6003,Charlotte,NC,USA,Active
+2,Supplier 02,Emma Miller,supplier2@vendor.com,555-740-4457,Portland,OR,USA,Active
+3,Supplier 03,Ava Davis,supplier3@vendor.com,555-277-2229,Chicago,IL,USA,Active
+4,Supplier 04,Charlotte Jackson,supplier4@vendor.com,555-805-8699,New York,NY,USA,Active
+5,Supplier 05,Sophia Anderson,supplier5@vendor.com,555-823-5632,Los Angeles,CA,USA,Inactive
+6,Supplier 06,Sophia Wilson,supplier6@vendor.com,555-906-4241,Chicago,IL,USA,Inactive
+7,Supplier 07,Harper Davis,supplier7@vendor.com,555-763-3441,Houston,TX,USA,Active
+8,Supplier 08,Liam Johnson,supplier8@vendor.com,555-269-6039,Phoenix,AZ,USA,Active
+9,Supplier 09,Emma Jackson,supplier9@vendor.com,555-805-5982,Charlotte,NC,USA,Inactive
+10,Supplier 10,Daniel Clark,supplier10@vendor.com,555-605-8172,Dallas,TX,USA,Active
+11,Supplier 11,Olivia Martin,supplier11@vendor.com,555-852-6280,Portland,OR,USA,Active
+12,Supplier 12,Liam Davis,supplier12@vendor.com,555-790-1339,New York,NY,USA,Active
+13,Supplier 13,Olivia Garcia,supplier13@vendor.com,555-581-9502,Nashville,TN,USA,Inactive
+14,Supplier 14,Ava Lewis,supplier14@vendor.com,555-546-9056,Dallas,TX,USA,Active
+15,Supplier 15,Mia Martin,supplier15@vendor.com,555-441-6260,Seattle,WA,USA,Active
+16,Supplier 16,Lucas Martin,supplier16@vendor.com,555-810-9117,Philadelphia,PA,USA,Active
+17,Supplier 17,Harper Johnson,supplier17@vendor.com,555-565-2442,Fort Worth,TX,USA,Active
+18,Supplier 18,Lucas Brown,supplier18@vendor.com,555-891-7622,Dallas,TX,USA,Active
+19,Supplier 19,Alexander Martin,supplier19@vendor.com,555-155-4073,Boston,MA,USA,Active
+20,Supplier 20,Amelia Jackson,supplier20@vendor.com,555-878-1845,Portland,OR,USA,Active
+21,Supplier 21,Harper Jones,supplier21@vendor.com,555-394-8178,Dallas,TX,USA,Inactive
+22,Supplier 22,James Young,supplier22@vendor.com,555-918-4920,Houston,TX,USA,Active
+23,Supplier 23,Harper Smith,supplier23@vendor.com,555-665-7684,San Jose,CA,USA,Active
+24,Supplier 24,Emma Jackson,supplier24@vendor.com,555-220-3522,San Diego,CA,USA,Inactive
+25,Supplier 25,Daniel Wilson,supplier25@vendor.com,555-525-8905,San Jose,CA,USA,Inactive
+26,Supplier 26,Alexander Clark,supplier26@vendor.com,555-248-7284,San Diego,CA,USA,Active
+27,Supplier 27,Daniel Jones,supplier27@vendor.com,555-984-2143,Portland,OR,USA,Active
+28,Supplier 28,Lucas Harris,supplier28@vendor.com,555-373-1042,Columbus,OH,USA,Active
+29,Supplier 29,Michael Lewis,supplier29@vendor.com,555-775-9022,San Jose,CA,USA,Active
+30,Supplier 30,Harper White,supplier30@vendor.com,555-453-6446,Charlotte,NC,USA,Inactive
+31,Supplier 31,Lucas Miller,supplier31@vendor.com,555-814-4912,Charlotte,NC,USA,Inactive
+32,Supplier 32,Charlotte Johnson,supplier32@vendor.com,555-425-8749,San Diego,CA,USA,Inactive
+33,Supplier 33,Noah White,supplier33@vendor.com,555-137-3068,Fort Worth,TX,USA,Active
+34,Supplier 34,Alexander Brown,supplier34@vendor.com,555-638-8486,Houston,TX,USA,Active
+35,Supplier 35,Charlotte Jones,supplier35@vendor.com,555-176-8692,Phoenix,AZ,USA,Active
+36,Supplier 36,Evelyn Moore,supplier36@vendor.com,555-765-2315,Austin,TX,USA,Active
+37,Supplier 37,Henry Taylor,supplier37@vendor.com,555-741-8994,Boston,MA,USA,Active
+38,Supplier 38,Liam Davis,supplier38@vendor.com,555-746-5708,Portland,OR,USA,Active
+39,Supplier 39,Charlotte Brown,supplier39@vendor.com,555-878-2646,Chicago,IL,USA,Inactive
+40,Supplier 40,Isabella Smith,supplier40@vendor.com,555-147-6314,Philadelphia,PA,USA,Active
+41,Supplier 41,Mia Thomas,supplier41@vendor.com,555-541-3385,San Jose,CA,USA,Active
+42,Supplier 42,Charlotte Lewis,supplier42@vendor.com,555-798-3950,Denver,CO,USA,Active
+43,Supplier 43,Liam Young,supplier43@vendor.com,555-991-7267,Philadelphia,PA,USA,Active
+44,Supplier 44,Michael Jones,supplier44@vendor.com,555-337-8555,Seattle,WA,USA,Active
+45,Supplier 45,Benjamin Smith,supplier45@vendor.com,555-923-8622,Charlotte,NC,USA,Active
+46,Supplier 46,Ava Williams,supplier46@vendor.com,555-552-6661,Boston,MA,USA,Active
+47,Supplier 47,Benjamin Jackson,supplier47@vendor.com,555-965-5949,Columbus,OH,USA,Active
+48,Supplier 48,Amelia Brown,supplier48@vendor.com,555-342-7248,Fort Worth,TX,USA,Active
+49,Supplier 49,Isabella Anderson,supplier49@vendor.com,555-122-7484,Nashville,TN,USA,Active
+50,Supplier 50,Michael Johnson,supplier50@vendor.com,555-720-9138,New York,NY,USA,Active

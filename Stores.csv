@@ -1,0 +1,51 @@
+StoreID,StoreCode,StoreName,StoreType,Address,City,State,PostalCode,OpeningDate,SquareFeet,StoreStatus
+1,STR-101,Retail Store 01,Outlet,2915 Commerce Ave,New York,NY,10001,2024-12-06,68305,Open
+2,STR-102,Retail Store 02,Superstore,1834 Commerce Ave,Chicago,IL,60601,2020-09-23,65104,Closed
+3,STR-103,Retail Store 03,Mall,6584 Commerce Ave,Denver,CO,80201,2021-06-24,52500,Open
+4,STR-104,Retail Store 04,High Street,1351 Commerce Ave,Austin,TX,78701,2023-09-22,22945,Open
+5,STR-105,Retail Store 05,Outlet,2519 Commerce Ave,Jacksonville,FL,32099,2020-08-25,21474,Open
+6,STR-106,Retail Store 06,High Street,2942 Commerce Ave,Dallas,TX,75201,2024-10-03,28036,Open
+7,STR-107,Retail Store 07,Superstore,7701 Commerce Ave,Philadelphia,PA,19101,2024-04-28,66838,Open
+8,STR-108,Retail Store 08,High Street,7305 Commerce Ave,Austin,TX,78701,2018-10-07,69462,Closed
+9,STR-109,Retail Store 09,Outlet,9789 Commerce Ave,San Jose,CA,95101,2018-08-19,54129,Open
+10,STR-110,Retail Store 10,Superstore,7504 Commerce Ave,San Jose,CA,95101,2018-06-04,15456,Open
+11,STR-111,Retail Store 11,Mall,1579 Commerce Ave,San Jose,CA,95101,2024-11-24,74462,Closed
+12,STR-112,Retail Store 12,Mall,7468 Commerce Ave,Charlotte,NC,28201,2024-05-30,32672,Open
+13,STR-113,Retail Store 13,Superstore,8314 Commerce Ave,Portland,OR,97201,2019-09-10,16109,Closed
+14,STR-114,Retail Store 14,Outlet,1481 Commerce Ave,Houston,TX,77001,2023-08-29,30617,Open
+15,STR-115,Retail Store 15,Superstore,7299 Commerce Ave,San Diego,CA,92101,2023-11-17,28807,Open
+16,STR-116,Retail Store 16,Outlet,6447 Commerce Ave,Jacksonville,FL,32099,2022-08-02,52350,Open
+17,STR-117,Retail Store 17,Mall,5501 Commerce Ave,Austin,TX,78701,2019-01-23,58667,Open
+18,STR-118,Retail Store 18,High Street,5561 Commerce Ave,Dallas,TX,75201,2018-11-30,26537,Open
+19,STR-119,Retail Store 19,Superstore,2212 Commerce Ave,San Jose,CA,95101,2024-09-03,19104,Open
+20,STR-120,Retail Store 20,Superstore,5481 Commerce Ave,Boston,MA,02101,2019-06-08,20249,Closed
+21,STR-121,Retail Store 21,Outlet,398 Commerce Ave,Denver,CO,80201,2022-01-25,48483,Open
+22,STR-122,Retail Store 22,Outlet,8067 Commerce Ave,San Antonio,TX,78201,2020-02-26,37693,Open
+23,STR-123,Retail Store 23,Mall,4946 Commerce Ave,Phoenix,AZ,85001,2019-02-19,74543,Open
+24,STR-124,Retail Store 24,High Street,9885 Commerce Ave,Austin,TX,78701,2022-03-24,28218,Open
+25,STR-125,Retail Store 25,High Street,7270 Commerce Ave,Philadelphia,PA,19101,2018-06-28,61852,Open
+26,STR-126,Retail Store 26,Superstore,4768 Commerce Ave,San Diego,CA,92101,2023-01-13,38671,Open
+27,STR-127,Retail Store 27,Superstore,3278 Commerce Ave,San Jose,CA,95101,2022-02-15,65749,Closed
+28,STR-128,Retail Store 28,Superstore,8339 Commerce Ave,San Jose,CA,95101,2023-12-01,62874,Open
+29,STR-129,Retail Store 29,High Street,4196 Commerce Ave,San Antonio,TX,78201,2018-08-02,70991,Open
+30,STR-130,Retail Store 30,Mall,8552 Commerce Ave,Boston,MA,02101,2019-05-26,45363,Open
+31,STR-131,Retail Store 31,Outlet,7461 Commerce Ave,Philadelphia,PA,19101,2023-10-04,27313,Closed
+32,STR-132,Retail Store 32,High Street,7491 Commerce Ave,Chicago,IL,60601,2021-12-02,11495,Closed
+33,STR-133,Retail Store 33,Superstore,8324 Commerce Ave,Los Angeles,CA,90001,2022-03-12,38903,Closed
+34,STR-134,Retail Store 34,Outlet,3778 Commerce Ave,Chicago,IL,60601,2018-04-26,49770,Open
+35,STR-135,Retail Store 35,High Street,2354 Commerce Ave,Austin,TX,78701,2018-06-06,45601,Closed
+36,STR-136,Retail Store 36,Superstore,7449 Commerce Ave,Phoenix,AZ,85001,2024-11-25,8688,Open
+37,STR-137,Retail Store 37,Outlet,3633 Commerce Ave,New York,NY,10001,2019-09-05,63476,Open
+38,STR-138,Retail Store 38,High Street,5034 Commerce Ave,San Jose,CA,95101,2019-05-15,14258,Open
+39,STR-139,Retail Store 39,Superstore,1129 Commerce Ave,Columbus,OH,43085,2019-03-31,73513,Open
+40,STR-140,Retail Store 40,High Street,2452 Commerce Ave,Denver,CO,80201,2021-04-08,64261,Open
+41,STR-141,Retail Store 41,Outlet,4041 Commerce Ave,Portland,OR,97201,2024-05-26,62600,Open
+42,STR-142,Retail Store 42,Outlet,1208 Commerce Ave,Chicago,IL,60601,2023-11-25,74496,Open
+43,STR-143,Retail Store 43,Superstore,813 Commerce Ave,Fort Worth,TX,76101,2025-02-16,58709,Open
+44,STR-144,Retail Store 44,Mall,5950 Commerce Ave,Dallas,TX,75201,2018-10-04,53193,Open
+45,STR-145,Retail Store 45,Outlet,2285 Commerce Ave,Houston,TX,77001,2018-07-01,54176,Open
+46,STR-146,Retail Store 46,Superstore,7940 Commerce Ave,Philadelphia,PA,19101,2025-01-31,31891,Open
+47,STR-147,Retail Store 47,Superstore,705 Commerce Ave,Chicago,IL,60601,2021-04-16,34422,Open
+48,STR-148,Retail Store 48,Mall,5270 Commerce Ave,San Antonio,TX,78201,2021-06-24,60196,Closed
+49,STR-149,Retail Store 49,Mall,3231 Commerce Ave,Dallas,TX,75201,2021-03-17,54789,Open
+50,STR-150,Retail Store 50,Outlet,2139 Commerce Ave,Austin,TX,78701,2022-02-16,65272,Closed
