@@ -1,0 +1,54 @@
+[
+    {
+        "p_rel_url" : "waqarhussain9299-byte/retail_database/refs/heads/main/Categories.csv",
+        "p_sink_folder" : "raw",
+        "p_sink_file" : "Categories.csv"
+    },
+    {
+        "p_rel_url" : "waqarhussain9299-byte/retail_database/refs/heads/main/CustomerAddresses.csv",
+        "p_sink_folder" : "raw",
+        "p_sink_file" : "CustomerAddresses.csv"
+    },
+    {
+        "p_rel_url" : "waqarhussain9299-byte/retail_database/refs/heads/main/Customers.csv",
+        "p_sink_folder" : "raw",
+        "p_sink_file" : "Customers.csv"
+    },
+    {
+        "p_rel_url" : "waqarhussain9299-byte/retail_database/refs/heads/main/OrderItems.csv",
+        "p_sink_folder" : "raw",
+        "p_sink_file" : "OrderItems.csv"
+    },
+    {
+        "p_rel_url" : "waqarhussain9299-byte/retail_database/refs/heads/main/Orders.csv",
+        "p_sink_folder" : "raw",
+        "p_sink_file" : "Orders.csv"
+    },
+    {
+        "p_rel_url" : "waqarhussain9299-byte/retail_database/refs/heads/main/Payments.csv",
+        "p_sink_folder" : "raw",
+        "p_sink_file" : "Payments.csv"
+    },
+    {
+        "p_rel_url" : "waqarhussain9299-byte/retail_database/refs/heads/main/Products.csv",
+        "p_sink_folder" : "raw",
+        "p_sink_file" : "Products.csv"
+    },
+    {
+        "p_rel_url" : "waqarhussain9299-byte/retail_database/refs/heads/main/Returns.csv",
+        "p_sink_folder" : "raw",
+        "p_sink_file" : "Returns.csv"
+    }
+,
+    {
+        "p_rel_url" : "waqarhussain9299-byte/retail_database/refs/heads/main/Stores.csv",
+        "p_sink_folder" : "raw",
+        "p_sink_file" : "Stores.csv"
+    }
+,
+    {
+        "p_rel_url" : "waqarhussain9299-byte/retail_database/refs/heads/main/Suppliers.csv",
+        "p_sink_folder" : "raw",
+        "p_sink_file" : "Suppliers.csv"
+    }
+]
